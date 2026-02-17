@@ -1,0 +1,24 @@
+# Python Mini Projects
+
+This repository contains simple beginner-level Python projects created as part of my self-learning journey.
+
+## Projects Included
+
+### 1. To-Do List
+A simple command-line task manager that allows users to:
+- Add tasks
+- View tasks
+- Remove tasks
+
+### 2. Calculator
+A basic calculator that performs:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## Technologies Used
+- Python (Basic concepts)
+- Functions
+- Loops
+- Conditional Statements
