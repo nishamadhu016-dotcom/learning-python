@@ -1,0 +1,31 @@
+score = 0
+
+print("===== SIMPLE QUIZ APP =====")
+
+print("\n1. What is the capital of India?")
+print("a) Mumbai")
+print("b) Delhi")
+print("c) Chennai")
+print("d) Kolkata")
+ans1 = input("Enter your answer: ")
+
+if ans1.lower() == 'b':
+    print("Correct!")
+    score += 1
+else:
+    print("Wrong!")
+
+print("\n2. Which language is used for web development?")
+print("a) Python")
+print("b) HTML")
+print("c) Java")
+print("d) C++")
+ans2 = input("Enter your answer: ")
+
+if ans2.lower() == 'b':
+    print("Correct!")
+    score += 1
+else:
+    print("Wrong!")
+
+print("\nYour Final Score is:", score)
